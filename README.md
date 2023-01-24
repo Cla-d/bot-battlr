@@ -13,6 +13,7 @@ Create a new GitHub repository.
 In your project directory, create a db.json file and use this data Links to an external site.for your server DB.
 Run this command to get the backend started: json-server --watch db.json
 Test your server by visiting this route in the browser: http://localhost:8001/bots
+ENSURE that the backend is started by running json-server --watch db.json so as to efficiently run the project server
 
 # Core Deliverables
 As a user, I should be able to:
